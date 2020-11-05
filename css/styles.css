@@ -44,14 +44,15 @@ h6 {
     position: relative;
     width: 50%;
     margin: 4% auto 0;
+    padding-bottom: 1px;
 }
 
 .a-programer {
     font-size: 1.5rem;
     font-weight: 100;
     color: #16a596;
-    padding-bottom: 10%;
-    margin-bottom: 0;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .snowflakes {
@@ -92,14 +93,14 @@ h6 {
     border: solid 1px black;
     min-width: 200px;
     height: fit-content;
-    margin: 4%;
+    margin: 8%;
 }
 
 .skill-header {
     background-color: #898b8a;
     color:#eeeeee;
     border: solid 1px black;
-    padding: top;
+    padding: 4%;
 }
 
 .skill-body {
@@ -110,20 +111,20 @@ h6 {
 }
 
 .skill-image {
-    margin-bottom: 16%;
+    margin-bottom: 8%;
 }
 
 /* SECTION PROJECTS */
 
 #projects {
     background-color: #898b8a;
-    padding: 1% 10%;
+    padding: 1% 5%;
     
 }
 
 .carousel-image {
   width: 60%;
-  margin: 5%;
+  margin: 8% 0 0;
 }
 
 /* FOOTER SECTION */
