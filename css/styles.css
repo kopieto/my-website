@@ -51,7 +51,7 @@ h6 {
     font-size: 1.5rem;
     font-weight: 100;
     color: #16a596;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
     margin-bottom: 50px;
 }
 
@@ -106,12 +106,13 @@ h6 {
 .skill-body {
     background-color:  #ddf0e9;
     color: #ffe05d;
-    padding: 8%;
+    padding-bottom: 8%;
+   
     font-size: 1.5rem;
 }
 
 .skill-image {
-    margin-bottom: 8%;
+    margin: 8%;
 }
 
 /* SECTION PROJECTS */
