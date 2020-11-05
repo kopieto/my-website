@@ -1,0 +1,144 @@
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #898b8a;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    font-weight: bolder;
+    color: #16a596;
+    padding-top: 10%
+}
+
+h3 {
+    margin: 0;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Alegreya SC', serif;
+}
+
+
+/* WELCOME SECTION */
+
+.navbar {
+    background-color: #898b8a;
+}
+
+.navbar-light .navbar-brand {
+    color: #16a596;
+    font-family: 'Dancing Script', cursive;
+}
+
+#welcome {
+    background-color:  #ddf0e9;
+}
+
+.welcome-box {
+    position: relative;
+    width: 50%;
+    margin: 4% auto 0;
+    padding-bottom: 1px;
+}
+
+.a-programer {
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: #16a596;
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.snowflakes {
+    width: 50px;
+    position: absolute;
+}
+
+.snowflake-one {
+    right: 0;
+    top: 0;
+}
+
+.snowflake-two {
+    left: 0;
+    bottom: 0;
+}
+
+.mountain-draw {
+    margin-bottom: 8%;
+    padding-bottom: 2%;
+}
+
+/* SKILLS SECTION */
+
+#skills {
+    background-color: #eeeeee;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 2%;
+
+}
+
+.skill {
+    border: solid 1px black;
+    min-width: 200px;
+    height: fit-content;
+    margin: 8%;
+}
+
+.skill-header {
+    background-color: #898b8a;
+    color:#eeeeee;
+    border: solid 1px black;
+    padding: 8%;
+}
+
+.skill-body {
+    background-color:  #ddf0e9;
+    color: #ffe05d;
+    padding-bottom: 16%;
+   
+    font-size: 1.5rem;
+}
+
+.skill-image {
+    margin: 16% auto;
+}
+
+/* SECTION PROJECTS */
+
+#projects {
+    background-color: #898b8a;
+    padding: 1% 5%;
+    
+}
+
+.carousel-image {
+  width: 60%;
+  margin: 8% 0 0;
+}
+
+/* FOOTER SECTION */
+
+.footer-icon {
+    margin: 0 10px 4%;
+}
+
+.contact-link {
+    color: #1e1e1e;
+}
+
+.contact-link:hover {
+    color: #ddf0e9;
+}
+
